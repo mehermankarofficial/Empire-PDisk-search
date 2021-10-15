@@ -9,9 +9,9 @@
         "videos",
         "search"
     ],
-    "repository": "https://github.com/AbirHasan2005/PDisk-Videos-Search",
-    "website": "https://github.com/AbirHasan2005/PDisk-Videos-Search",
-    "success_url": "https://github.com/AbirHasan2005/PDisk-Videos-Search",
+    "repository": "https://github.com/gigameher473/Empire-PDisk-search",
+    "website": "https://github.com/gigameher473/Empire-PDisk-search",
+    "success_url": "https://github.com/gigameher473/Empire-PDisk-search",
     "env": {
         "API_ID": {
             "description": "Get from https://t.me/TeleORG_Bot",
